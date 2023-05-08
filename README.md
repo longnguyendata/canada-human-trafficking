@@ -6,7 +6,7 @@ Visualize the human trafficking issues based on police-reported data from StatCa
 * I used Python and MS Power BI to build this dashboard.
 
 ## Data Preparation:
-* The dataset: downloaded from the Statistics Canada website.
+* The dataset: downloaded from the Statistics Canada website. [Link](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510017701&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=2.58&cubeTimeFrame.startYear=2017&cubeTimeFrame.endYear=2021&referencePeriods=20170101%2C20210101).
 * There are 2 methods to download the datasets from StatCan websites: using Python and using StatCan web interface.
 * After downloading the dataset, I used Python for cleaning and wrangling data.
 * The cleaned dataset was loaded to Power BI for visualization.
