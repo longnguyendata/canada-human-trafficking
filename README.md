@@ -1,4 +1,4 @@
-# canada-human-trafficking
+# Canada Human Trafficking Visualization
 Visualize the human trafficking issues based on police-reported data from StatCan website
 
 ## Project Summary:
