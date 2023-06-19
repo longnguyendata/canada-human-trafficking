@@ -1,6 +1,8 @@
 # Canada Human Trafficking Visualization
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/longnguyendata/canada-human-trafficking)
 
+![Dashboard preview](url "Dashboard preview")
+
 ## Project Description:
 - My goal is to design a set of dashboards that provide a clear and concise overview of human trafficking in Canada.
 - I want to make the dashboards user-friendly and interactive, allowing users to easily navigate through the data.
