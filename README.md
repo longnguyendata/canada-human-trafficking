@@ -11,8 +11,8 @@
 - The cleaned dataset was loaded to Power BI for visualization.
 
 ## Desired Insights:
-- Which provinces have the highest HT incidents from 2011 to 2021? In each year?
-- What does the trend of HT incidents over the period in each province look like?
+- Which provinces have the highest human trafficking incidents from 2011 to 2021? In each year?
+- What does the trend of human trafficking incidents over the period in each province look like?
 - Compare the crime statistics between 2 provinces, e.g. Alberta vs. Ontario.
 - What are the forecast incidents in Canada in the next 5 years?
 
