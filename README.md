@@ -8,7 +8,7 @@
 - I want to make the dashboards user-friendly and interactive, allowing users to easily navigate through the data.
 
 ## Dataset
-- The dataset: downloaded from the [Statistics Canada website](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510017701&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=2.58&cubeTimeFrame.startYear=2017&cubeTimeFrame.endYear=2021&referencePeriods=20170101%2C20210101).
+- The dataset can be downloaded from the [Statistics Canada website](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510017701&pickMembers%5B0%5D=1.1&pickMembers%5B1%5D=2.58&cubeTimeFrame.startYear=2017&cubeTimeFrame.endYear=2021&referencePeriods=20170101%2C20210101).
 - After downloading the dataset, I used Python for cleaning and wrangling data. With its robust libraries such as Pandas and Numpy, Python is a powerful tool for data manipulation, preprocessing, and analysis.
 - The cleaned dataset was loaded to Power BI for visualization.
 
